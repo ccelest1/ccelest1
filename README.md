@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/craig-celestin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/craig-celestin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucy9wcjt3ft1u5j1rlslecaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucy9wcjt3ft1u5j1rlslecaw" height="30" width="40" /></a>
+<a href="https://youtube.com/@tylercelestin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@tylercelestin" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/crgcelestin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/crgcelestin/" height="30" width="40" /></a>
 <a href="https://leetcode.com/crgcelestin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/crgcelestin/" height="30" width="40" /></a>
 </p>
