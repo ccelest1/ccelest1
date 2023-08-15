@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NoSQL, SQLite, NodeJs, Express, Svelte, and Typescript**
 
-- 👨‍💻 All of my projects are available @ [crgcelestin.gitlab.io](https://crgcelestin.gitlab.io/)
+- 👨‍💻 All of my projects are available @ [my portfolio site](https://craigcelestin-portfolio.vercel.app/)
 
 - 📫 How to reach me: [Contact Me](mailto:crgcelestin@gmail.com)
 
