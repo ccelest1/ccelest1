@@ -9,6 +9,7 @@
 - 🔭 I’m currently the [Backend Team Manager for an Event Management App @ NYC Code and Coffee](https://github.com/Ris345/eventexperienceapp)
 
 - 🌱 I’m currently learning **NoSQL, SQLite, NodeJs, Express, Svelte, and Typescript**
+- 💾 A majority of my past work is available on my [gitlab profile](https://gitlab.com/crgcelestin)
 
 - 👨‍💻 All of my projects are available @ [my portfolio site](https://craigcelestin-portfolio.vercel.app/)
 
