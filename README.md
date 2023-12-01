@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ccelest1" alt="ccelest1" /></a> </p>
 
-- 🔭 I’m currently the [Backend Team Manager for an Event Management App @ NYC Code and Coffee](https://github.com/Ris345/eventexperienceapp)
+- 🔭 I’m a interdisciplinary Software Developer with experience in Full Stack Agile Development and AI Programming. Currently I am working on passion projects across a number of teams.
 
 - 🌱 I’m currently learning **NoSQL, SQLite, NodeJs, Express, Svelte, and Typescript**
 - 💾 A majority of my past work is available on my [gitlab profile](https://gitlab.com/crgcelestin)
