@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Craig Celestin</h1>
+<h1 align="center">Hi 👋, I'm Craig Tyler Celestin</h1>
 <h3 align="center">I am an interdisciplinary software engineer with experience in AI Programming based in Brooklyn, NY.</h3>
 
 
