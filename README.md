@@ -31,8 +31,8 @@
     align="left" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ccelest1&show_icons=true&locale=en&layout=compact" 
     alt="ccelest1"
-    height="500"
-    width="500"
+    height="200"
+    width="200"
  /></p>
  
  <p>
@@ -40,8 +40,8 @@
       align="center" 
       src="https://github-readme-stats.vercel.app/api?username=ccelest1&show_icons=true&locale=en" 
       alt="ccelest1"
-      height="500"
-      width="500"
+      height="200"
+      width="200"
   />
 </p>
  
@@ -49,8 +49,8 @@
      align="right" 
      src="https://github-readme-streak-stats-eight.vercel.app?user=ccelest1" 
      alt="ccelest1" 
-     height="500"
-     width="500"
+     height="200"
+     width="200"
      />
 </p>
 
