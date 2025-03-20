@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ccelest1&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="<placeholder>" /></p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccelest1&theme=gotham&hide_border=false" alt="ccelest1" /></p>
+![ccelest1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ccelest1&theme=gotham&hide_border=false)
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccelest1&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" /></a>
