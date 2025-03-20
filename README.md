@@ -1,5 +1,3 @@
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ccelest1&theme=android-dark" alt="GitHub Streak" /></a>
-
 <h1 align="center">Hi 👋, I'm Craig Tyler Celestin</h1>
 <h3 align="center">I am an interdisciplinary software engineer with experience in AI Programming based in Brooklyn, NY.</h3>
 
@@ -31,4 +29,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ccelest1&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="<placeholder>" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccelest1&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" /></p>
+<p><img alight="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccelest1&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" /></p>
+
+<p>
+  <a href="https://git.io/streak-stats"><img align="right" src="https://github-readme-streak-stats.demolab.com?user=ccelest1&theme=android-dark" alt="GitHub Streak" /></a>
+</p>
