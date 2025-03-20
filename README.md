@@ -1,4 +1,4 @@
-![ccelest1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ccelest1&theme=gotham&hide_border=false)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ccelest1&theme=android-dark" alt="GitHub Streak" /></a>
 
 <h1 align="center">Hi 👋, I'm Craig Tyler Celestin</h1>
 <h3 align="center">I am an interdisciplinary software engineer with experience in AI Programming based in Brooklyn, NY.</h3>
